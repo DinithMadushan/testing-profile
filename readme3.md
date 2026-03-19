@@ -1,15 +1,13 @@
-<!-- Main GIF -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
        width="1050"
        style="border-radius:20px;" />
 <h1 align ="center"> Hi, I'm Dinith Madushan 👋</h1>
 
-  <br>
 
   <!-- Glowing Line -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&width=1000"/>
-
-</div>
+  <!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/> -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" 
+     style="width:100%; max-width:1050px;" />
 <h3 align="center">💻 Software Engineering Undergraduate | 🚀 Tech Enthusiast | 🔬 Researcher</h3>
 <div align="center">
 
