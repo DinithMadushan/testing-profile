@@ -8,12 +8,15 @@
   <!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/> -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" 
      style="width:100%; max-width:1050px;" />
+     
 <h3 align="center">💻 Software Engineering Undergraduate | 🚀 Tech Enthusiast | 🔬 Researcher</h3>
-<div align="center">
+<!--<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=22&center=true&vCenter=true&width=600&lines=Software+Developer+in+Progress;Python+%7C+OOP+%7C+System+Development;Tech+and+Research+Enthusiast;Exploring+AI+and+Modern+Technologies;Always+Learning+and+Building" />
+</p>-->
 
-  <!-- Typing Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+Profile👋;Software+Developer+in+Progress;OOP+%7C+System+Development;Tech+and+Research+Enthusiast🚀🛰️;Exploring+AI+and+Modern+Technologies;Always+Learning+and+Building" />
-<br>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+Profile👋;Software+Developer+in+Progress;OOP+%7C+System+Development;Tech+and+Research+Enthusiast🚀🛰️;Exploring+AI+and+Modern+Technologies;Always+Learning+and+Building" />
+</p>
 <p align="center">
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="620" alt="programmer at work"/>
 </p>
@@ -27,7 +30,7 @@
 
 ---
 
-# 💫 About Me 🚀
+# 💫 About Me
 🔭 **Currently working on:**  
 Campus Management Systems and Software Development projects using **Python & OOP**
 
@@ -163,6 +166,8 @@ I enjoy turning complex ideas into working software systems 🚀
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=DinithMadushan&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies"/>
 </div>
+
+---
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
