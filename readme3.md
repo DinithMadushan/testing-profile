@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
        width="1050"
        style="border-radius:20px;" />
-<h1 align ="center"> Hi, I'm Dinith Madushan 👋</h1>
+<h1 align ="center"> Hi, I'm Dinith Madushan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px"></h1>
 
 
   <!-- Glowing Line -->
